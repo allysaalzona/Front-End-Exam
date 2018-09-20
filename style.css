@@ -40,3 +40,50 @@ body {
 .carousel-caption h3 {
     font-size: 30px;
 }
+
+/* Footer */
+footer {
+    color:#fff;
+    padding: 50px 250px;
+    font-size: 12px;
+}
+
+footer #address,
+footer #contact {
+    text-transform: uppercase;
+    color: #ffb900;
+    font-weight: 700;
+    margin-top: 35px;
+    margin-bottom: 5px;
+    
+}
+
+footer .row:nth-child(1) {
+    border-bottom: #fff 1px solid;
+    margin-bottom: 50px;
+}
+
+footer #interchangeLogo {
+    width:30%;
+    margin-bottom: 20px;
+}
+
+footer #copyright {
+    font-size:10px;
+}
+
+footer #copyright span {
+    color: #ffb900;
+}
+
+footer #icons {
+    text-align: right;
+}
+
+footer #icons span {
+    padding-left: 12px;
+}
+
+footer #ThirtyOneDigitalLogo {
+    width: 40%;
+}
