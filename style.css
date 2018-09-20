@@ -103,9 +103,18 @@ footer #ThirtyOneDigitalLogo {
 }
 
 @media (max-width: 576px) {
+    .navbar {
+        padding:5px;
+    }
+    .navbar .navbar-toggler span {
+        color:#fff;
+    }
+    .navbar-brand {
+        margin:0;
+    }
     .navbar-brand img{
         width:70%;
-        margin-right:0;
+        float:right;
     }
     .carousel-caption {
         left:0;
