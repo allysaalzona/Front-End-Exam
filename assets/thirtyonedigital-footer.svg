@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 30">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 13px;
+        font-family: ArialMT, Arial;
+        opacity: 0.998;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group_287" data-name="Group 287" transform="translate(-1227 -8028)">
+    <text id="_2018_Deck_Componen" data-name="© 2018 Deck Componen" class="cls-1" transform="translate(1282 8040)"><tspan x="-54.19" y="0">Thirtyone</tspan><tspan x="-36.125" y="15">Digital</tspan></text>
+    <g id="_31D_Logo_Mark" data-name="31D Logo Mark" transform="translate(-275 3981)">
+      <g id="_2803166261936" transform="translate(1565 4047)">
+        <path id="Path_65" data-name="Path 65" class="cls-2" d="M4790,4047h7.145l4.25,7.357,4.243,7.349-4.243,7.357-4.25,7.357H4790Z" transform="translate(-4763.638 -4047)"/>
+        <path id="Path_66" data-name="Path 66" class="cls-2" d="M1569.365,4054.144l4.128-7.144h10.717l-4.128,7.144Zm14.845,15.131v7.145h-10.717l-4.128-7.145Zm-19.21-7.57,2.06-3.572h17.15v7.153h-17.15Z" transform="translate(-1565 -4047)"/>
+      </g>
+    </g>
+  </g>
+</svg>
