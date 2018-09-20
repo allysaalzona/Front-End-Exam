@@ -76,7 +76,7 @@ footer #copyright span {
     color: #ffb900;
 }
 
-footer #icons {
+footer #icons p {
     text-align: right;
 }
 
@@ -86,4 +86,48 @@ footer #icons span {
 
 footer #ThirtyOneDigitalLogo {
     width: 40%;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+    footer {
+        padding: 50px 50px;
+    }
+    footer #ThirtyOneDigitalLogo {
+        width: 30%;
+    }
+    footer #interchangeLogo {
+        width:50%;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand img{
+        width:70%;
+        margin-right:0;
+    }
+    .carousel-caption {
+        left:0;
+    }
+    .carousel-caption h1 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .carousel-caption h3 {
+        font-size: 16px;
+    }
+    footer {
+        text-align: center;
+    }
+    footer #ThirtyOneDigitalLogo {
+        width: 40%;
+    }
+    footer #interchangeLogo {
+        width:60%;
+        margin-bottom: 20px;
+    }
+    footer #icons p {
+        text-align: center;
+    }
 }
