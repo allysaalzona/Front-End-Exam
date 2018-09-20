@@ -6,10 +6,10 @@ body {
 /* Navbar */
 .navbar {
     padding: 30px 40px;
+    position: absolute;
 }
 
 /* Navigation Links */
-
 #navigation li a{
     color: #767280;
     font-weight: 700;
