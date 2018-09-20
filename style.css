@@ -90,6 +90,25 @@ footer #ThirtyOneDigitalLogo {
 
 /* Responsive */
 @media (max-width: 992px) {
+    .navbar-brand {
+        margin:0;
+    }
+    .navbar-brand img{
+        width:70%;
+        float:right;
+    }
+    .carousel-caption {
+        width:100%;
+        top:40%;    
+        padding:0;
+    }
+    .carousel-caption h1 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .carousel-caption h3 {
+        font-size: 20px;
+    }
     footer {
         padding: 50px 50px;
     }
@@ -117,14 +136,16 @@ footer #ThirtyOneDigitalLogo {
         float:right;
     }
     .carousel-caption {
-        left:0;
+        width:100%;
+        top:15%;    
+        padding:0;
     }
     .carousel-caption h1 {
-        font-size: 20px;
+        font-size: 35px;
         font-weight: 700;
     }
     .carousel-caption h3 {
-        font-size: 16px;
+        font-size: 25px;
     }
     footer {
         text-align: center;
