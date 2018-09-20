@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    padding: 30px 40px;
+}
+
+/* Navigation Links */
+
+#navigation li a{
+    color: #767280;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    padding-left: 20px;
+}
+
+#navigation .active a {
+    color: #fff;
+}
