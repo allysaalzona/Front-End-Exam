@@ -17,6 +17,26 @@ body {
     padding-left: 20px;
 }
 
+#navigation li a:hover{
+    color: #fff;
+}
+
 #navigation .active a {
     color: #fff;
+}
+
+/* Slideshow */
+.carousel-caption {
+    text-align: left;
+    top:48%;
+    padding: 0 120px 0 120px;
+}
+
+.carousel-caption h1 {
+    font-size: 46px;
+    font-weight: 700;
+}
+
+.carousel-caption h3 {
+    font-size: 30px;
 }
